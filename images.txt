@@ -7,3 +7,4 @@ scrapinghub/splash
 chromadb/chroma
 redis
 postgres
+scrapinghub/splash
