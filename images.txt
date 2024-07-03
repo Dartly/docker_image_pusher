@@ -5,27 +5,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 scrapinghub/splash
 chromadb/chroma
-ubuntu
-alpine
-nginx
 redis
 postgres
-mysql
-mongo
-rabbitmq
-node
-python
-php
-jupyter
-tensorflow
-pytorch
-scikit-learn
-pandas
-matplotlib
-flask
-express
-koa
-nuxt
-vue
-fastapi
-
