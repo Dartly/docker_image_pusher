@@ -15,7 +15,6 @@ mongo
 rabbitmq
 node
 python
-java
 php
 apache
 tomcat
