@@ -8,3 +8,6 @@ chromadb/chroma
 redis
 postgres
 scrapinghub/splash
+searxng/searxng
+valkey/valkey:7-alpine
+library/caddy:2-alpine
